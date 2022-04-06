@@ -1,0 +1,27 @@
+#premiere-section {
+    display: flex;
+    height: 100px;
+    width: 100%;
+    flex-wrap: wrap;
+}   
+#rectangle {
+
+    width : 75%;
+    background-color : #2ecc71;
+}
+#rectangle2 {
+    
+    width: 25%;
+    background-color: #2980b9;
+}
+
+#deuxieme-section{
+    display: flex;
+    height: 100px;
+    width: 35%;
+    flex-wrap: wrap;
+}
+#rectangle3 {
+    width: 35%;
+    background-color: #e74c3c;
+}
